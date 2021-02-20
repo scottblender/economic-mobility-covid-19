@@ -11,3 +11,7 @@ Time-series Social Mobility Index since January 2019:
 ![Figure_2](https://user-images.githubusercontent.com/57569396/108583236-1c7ec480-7306-11eb-9e2f-7f596e984614.png)
 
 ![Figure_3](https://user-images.githubusercontent.com/57569396/108583482-b5620f80-7307-11eb-92e6-9f691eba1b14.png)
+
+![Figure_5](https://user-images.githubusercontent.com/57569396/108584396-0e817180-730f-11eb-994e-773ba904c88a.png)
+
+![Figure_6](https://user-images.githubusercontent.com/57569396/108584398-104b3500-730f-11eb-9674-0f6a764ed2da.png)
