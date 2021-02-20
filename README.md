@@ -5,3 +5,5 @@ Project Summary: Using human-centered mobility to gain insights into local and n
 Time-series Social Mobility Index since January 2019:
 
 ![Figure_1](https://user-images.githubusercontent.com/57569396/108538471-d34e5680-72ac-11eb-8b9d-0f4a62305ba2.png)
+
+![Figure_2](https://user-images.githubusercontent.com/57569396/108583236-1c7ec480-7306-11eb-9e2f-7f596e984614.png)
