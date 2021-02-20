@@ -9,9 +9,6 @@ Project Summary: Using human-centered mobility to gain insights into local and n
 
 ![Figure_2](https://user-images.githubusercontent.com/57569396/108583236-1c7ec480-7306-11eb-9e2f-7f596e984614.png)
 
-
-![Figure_5](https://user-images.githubusercontent.com/57569396/108584396-0e817180-730f-11eb-994e-773ba904c88a.png)
-
 ![Figure_6](https://user-images.githubusercontent.com/57569396/108584398-104b3500-730f-11eb-9674-0f6a764ed2da.png)
 
 ![Figure_7](https://user-images.githubusercontent.com/57569396/108601573-30104680-736b-11eb-9cfb-978b074469ae.png)
