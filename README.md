@@ -35,11 +35,11 @@ In order to account for variances in regional comparisons, inspiration from this
 Most analysis was done using Python 3.7 and Jupyter Notebooks. Relevant libraries including pandas, matplotlib, and seaborn were used. 
 
 # Data Sources:
-US Social Mobility Index
-Google Community Mobility Reports
-Bureau of Labor Statistics 
-EPA Air Quality Index
-Johns Hopkins CSSE COVID-19 Case Statistics
+1. US Social Mobility Index
+2. Google Community Mobility Reports
+3. Bureau of Labor Statistics 
+4. EPA Air Quality Index
+5. Johns Hopkins CSSE COVID-19 Case Statistics
 
 # Future Plans:
 After meeting with Dr. Webber yesterday, we plan to continue to work on this project over the summer. After producing a comprehensive Jupyter notebook with all analysis and information centralized, we will then determine the feasibility of transitioning this data analysis into a working paper. Updates and visualizations will be posted periodically to this repository: https://github.com/scottblender/economic-mobility-covid-19. 
